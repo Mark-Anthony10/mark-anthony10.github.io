@@ -1,4 +1,4 @@
- h1{
+h1 {
   text-align: center;
   font-family: Arial;
 }
@@ -6,22 +6,20 @@
 h2 {
   color: cornflowerblue;
   font-family: Arial;
-} 
+}
 
-h3{
+h3 {
   font-family: Arial;
 }
 
-p{
+p {
   font-family: Arial;
 }
 
-a{
+a {
   font-family: Arial;
 }
 
-li{
+li {
   font-family: Arial;
 }
-
-
