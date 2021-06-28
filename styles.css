@@ -13,8 +13,8 @@ body {
 .navigation-bar {
   background-color: white;
   height: 55px;
-  /*text-align: right;
-  font-size: 1.1rem; */
+  /*text-align: right; */
+  font-size: 1.1rem;
 }
 
 .nav-link {
