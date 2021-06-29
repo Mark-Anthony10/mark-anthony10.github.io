@@ -13,7 +13,7 @@ body {
 .navigation-bar {
   background-color: white;
   height: 57px;
-  /*text-align: right; */
+  text-align: right;
   font-size: 1.1rem;
 }
 
@@ -25,32 +25,29 @@ body {
 
 h1 {
   text-align: center;
-  /* font-family: Arial; */
   font-family: "Segoe UI";
+  letter-spacing: 0.1em;
+  font-weight: lighter;
+  font-size: 38px;
 }
 
 h2 {
   color: cornflowerblue;
-  /* font-family: Arial; */
   font-family: "Segoe UI";
 }
 
 h3 {
-  /* font-family: Arial; */
   font-family: "Segoe UI";
 }
 
 p {
-  /* font-family: Arial; */
   font-family: "Segoe UI";
 }
 
 a {
-  /* font-family: Arial; */
   font-family: "Segoe UI";
 }
 
 li {
-  /* font-family: Arial; */
   font-family: "Segoe UI";
 }
