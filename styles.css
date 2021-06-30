@@ -14,7 +14,7 @@ body {
   background-color: white;
   height: 57px;
   text-align: right;
-  font-size: 1.1rem;
+  font-size: 1.13rem;
 }
 
 .nav-link {
@@ -50,4 +50,12 @@ a {
 
 li {
   font-family: "Segoe UI";
+}
+
+.nav-link {
+  font-weight: lighter;
+}
+
+.nav-link:hover {
+  color: black;
 }
