@@ -10,6 +10,10 @@ body {
   margin: 0;
 }
 
+hr {
+  margin: auto 70px;
+}
+
 .navigation-bar {
   background-color: white;
   height: 57px;
