@@ -21,11 +21,24 @@ hr {
   font-size: 1.13rem;
 }
 
+.left-text {
+  text-align: left;
+}
+
 .nav-link {
   color: #a9a9a9;
   text-decoration: none;
   margin-right: 10px;
 }
+
+.name-link {
+  color: black;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+/* .full-body {
+} */
 
 h1 {
   text-align: center;
