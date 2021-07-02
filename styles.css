@@ -11,13 +11,12 @@ body {
 }
 
 hr {
-  margin: auto 70px;
+  margin: auto 1px;
 }
 
 .navigation-bar {
   background-color: white;
   height: 57px;
-  /* text-align: right; */
   font-size: 1.13rem;
 }
 
@@ -45,8 +44,18 @@ hr {
   font-size: 1.15rem;
 }
 
-/* .full-body {
-} */
+.full-body {
+  margin: 0.5in;
+}
+
+.sub-title {
+  color: #a9a9a9;
+  font-weight: lighter;
+  font-family: "Segoe UI";
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: -14px;
+}
 
 h1 {
   text-align: center;
@@ -61,6 +70,7 @@ h2 {
   font-weight: lighter;
   letter-spacing: 0.08em;
   color: cornflowerblue;
+  /* color: black; */
 }
 
 h3 {
