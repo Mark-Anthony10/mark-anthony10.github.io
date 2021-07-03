@@ -70,7 +70,6 @@ h2 {
   font-weight: lighter;
   letter-spacing: 0.08em;
   color: cornflowerblue;
-  /* color: black; */
 }
 
 h3 {
@@ -78,7 +77,8 @@ h3 {
 }
 
 p {
-  font-family: "Segoe UI";
+  /* font-family: "Segoe UI"; */
+  font-family: "Open Sans", sans-serif !important;
 }
 
 a {
