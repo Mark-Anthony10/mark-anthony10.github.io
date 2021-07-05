@@ -135,10 +135,6 @@ a:hover {
   border-radius: 50%;
   text-align: center;
 
-  /* background-color: #a9a9a9; */
-  /* background-color: #d3d3d3; */
-  /* background-color: #d0d0d0; */
-
   background: linear-gradient(
     45deg,
     rgba(200, 150, 150, 0.15),
