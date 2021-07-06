@@ -31,6 +31,7 @@ hr {
 .navlink-bar {
   display: flex;
   margin-left: 55%;
+  margin-right: 2%;
 }
 
 .name-link {
