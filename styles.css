@@ -25,20 +25,18 @@ hr {
 
 .name-bar {
   display: flex;
-  /* margin-right: 710px; */
-  margin-right: 56%;
-  margin-left: 1.5%;
+  margin-left: 2%;
 }
 
 .navlink-bar {
   display: flex;
+  margin-left: 55%;
 }
 
 .name-link {
   color: black;
   font-size: 1.15rem;
   font-weight: lighter;
-  /* text-decoration: none; */
   align-self: center;
 }
 
@@ -165,11 +163,3 @@ a:hover {
 .social ul li a:hover {
   background-color: #a9a9a9;
 }
-
-/* .left-text {
-  text-align: left;
-}
-
-.right-text {
-  text-align: right;
-} */
