@@ -30,8 +30,9 @@ hr {
 
 .navlink-bar {
   display: flex;
-  margin-left: 55%;
-  margin-right: 2%;
+  margin-left: 57%;
+  /* margin-right: 2%; */
+  /* background-color: aqua; */
 }
 
 .name-link {
@@ -163,10 +164,3 @@ a:hover {
 .social ul li a:hover {
   background-color: #a9a9a9;
 }
-
-/* @font-face {
-  font-family: "Segoe UI";
-  src: url("fonts/Segoe UI.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-} */
