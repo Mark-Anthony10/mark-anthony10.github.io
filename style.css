@@ -98,7 +98,7 @@ p {
 }
 
 .intro {
-    min-height: 305px
+    min-height: 250px /* Height of profile image + margin */
 }
 
 .publications {
